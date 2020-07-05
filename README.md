@@ -1,5 +1,9 @@
 # Binary Calculator
 
+## Algorithm capable of operating two numbers from 0 to 255 informed in binary.
+
+### After cloning the project, it is necessary to install the binary dependency, informed in pubspec.yaml.
+
 ## Exemplo 01
 ![Screen 01](https://github.com/luisgs7/binaryCalculator/blob/master/image/calculate.png)
 
